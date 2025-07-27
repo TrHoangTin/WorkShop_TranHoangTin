@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS Serverless Function Monitoring on AWS System Manager</title>
-    <link>/</link>
+    <link>https://trhoangtin.github.io/WorkShop_TranHoangTin/</link>
     <description>Recent content in AWS Serverless Function Monitoring on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trhoangtin.github.io/WorkShop_TranHoangTin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
