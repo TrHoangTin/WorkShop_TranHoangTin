@@ -1,7 +1,7 @@
 [
 {
 	"uri": "https://trhoangtin.github.io/WorkShop_TranHoangTin/",
-	"title": "AWServerless Function Monitoring",
+	"title": "AWS Serverless Function Monitoring",
 	"tags": [],
 	"description": "",
 	"content": "Serverless Function Monitoring Overall In this lab, you\u0026rsquo;ll learn the basics and practice of AWS Lambda.\nCreate and monitor an AWS Lambda function with CloudWatch for performance metrics. Set up automated alerts and dashboards to track errors, cold starts, and costs. Optimize function performance using logs and recommendations. Content Introduction Preparation Create CloudWatch Create cost alert Clean up resources "
